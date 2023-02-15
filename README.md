@@ -1,0 +1,2 @@
+# AwesomeResource
+Some useful resources
