@@ -1,4 +1,4 @@
-- 论文检索
+- 论文检索、引用
   - [arXiv.org e-Print archive](https://arxiv.org/)
   - [Scopus | 最大的同行评议文献数据库 | 爱思唯尔 (elsevier.com)](https://www.elsevier.com/zh-cn/solutions/scopus)
   - [Sci-Hub: removing barriers in the way of science](https://www.sci-hub.ren/)
@@ -8,7 +8,19 @@
   - [ReadPaper-论文阅读平台-专业学术讨论社区](https://readpaper.com/)
   - [Connected Papers | Find and explore academic papers](https://www.connectedpapers.com/)
   - [AMiner - AI赋能科技情报挖掘](https://mrt.aminer.cn/)
+  - [ACS Publications: Chemistry journals, books, and references published by the American Chemical Society](https://pubs.acs.org/)
+  - [Venues | OpenReview](https://openreview.net/)
+  - [HighWire Free Online Full-text Articles](http://portal.highwire.org/lists/freeart.dtl)
+  - [Search: The DART-Europe E-theses Portal](https://www.dart-europe.org/basic-search.php)
+  - [https://www.repository.cam.ac.uk](https://www.repository.cam.ac.uk/)
+  - [Journals - Scientific Research Publishing (scirp.org)](https://www.scirp.org/journal/)
+  - [ProQuest | Databases, EBooks and Technology for Research](https://about.proquest.com/)
+  - [Matrix factorization techniques for recommender systems | Request PDF (researchgate.net)](https://www.researchgate.net/publication/295699887_Matrix_factorization_techniques_for_recommender_systems)
+  - [Semantic Scholar | AI-Powered Research Tool](https://www.semanticscholar.org/)
+  - [dblp: BibTeX record books/daglib/0011316 (uni-trier.de)](https://dblp.uni-trier.de/rec/books/daglib/0011316.html?view=bibtex)
+  - [科研者之家-scihub-SCI写作助手-国家自然科学基金-期刊查询 (home-for-researchers.com)](https://www.home-for-researchers.com/static/index.html#/)
 - 论文书写、语言翻译与语法检查
+  - [周志华教授：如何做研究与写论文 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/98747105)
   - [Snip web app (mathpix.com)](https://snip.mathpix.com/)
   - [TeXstudio - A LaTeX editor (sourceforge.net)](https://texstudio.sourceforge.net/)
   - [Your Projects - Overleaf, Online LaTeX Editor](https://www.overleaf.com/project)
@@ -16,6 +28,8 @@
   - [DeepL翻译：全世界最准确的翻译](https://www.deepl.com/translator)
   - [英语句子成分分析_英语句子结构分析器_在线语法软件_句解霸 (en998.com)](http://www.en998.com/sentence/?sid=d504)
   - [Grammarly](https://app.grammarly.com/)
+  - [Typora数学公式汇总（Markdown） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/261750408?utm_source=wechat_session)
+  - [如何将excel表格导入latex中 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/148876880)
 - 阅读笔记
   - [思源笔记 - 本地优先的个人知识管理系统，支持 Markdown 排版、块级引用和双向链接 (b3log.org)](https://b3log.org/siyuan/)
   - [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so/64731953e4474fbeabfce5b2312f043b?v=194fe3280e4b4071b8bdcdedca9c9b91)
