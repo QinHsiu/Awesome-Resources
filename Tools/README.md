@@ -34,7 +34,9 @@
   - [Boost Note | Chronicle your Stories](https://boostnote.io/)
   - [升级日志 | 小书匠 (xiaoshujiang.com)](http://soft.xiaoshujiang.com/logs/version/v_8_5_12_video_demo/)
   - [Rebuttal](https://mp.weixin.qq.com/s/r41VSdZowIvVLRiCY3kD6A)
-
+  - [arxiv论文爬取](https://mp.weixin.qq.com/s/5xeP0rkOq8RLXTgbIXkAQQ)
+  - [流程图绘制](https://mp.weixin.qq.com/s/tRrcoz0vidkhc8PXD2okVg)
+  
 - 有趣AI
 
   - [AnimeGANv2 - a Hugging Face Space by akhaliq](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
@@ -87,7 +89,7 @@
   - [finebi激活成功 - 帆软 (fanruan.com)](https://www.fanruan.com/finebi/success?key=bdc4a55e-1f193b1f7-679c-16f55cde2774)
 
 - PPT模板与Word模板
-
+  - [Markdown转换PPT](https://mp.weixin.qq.com/s/scnGoQNHMqpf35tQqLiDkQ)
   - [正版图片视频素材网站,ppt模板,psd素材,装饰画,油画下载-我图网 (ooopic.com)](https://so.ooopic.com/)
   - [免费ppt模板,ppt模板下载,幻灯片模板 - 51PPT模板网 (51pptmoban.com)](https://www.51pptmoban.com/ppt/)
   - [【PPT模板下载】-精美PPT模板大全、PPT素材免费下载-无忧PPT网 (51ppt.com.cn)](http://www.51ppt.com.cn/)
@@ -116,6 +118,7 @@
   - [虎课网 - 设计、办公软件视频教程在线学习_ 每天免费学一课 (huke88.com)](https://huke88.com/)
   - [下载 - voidtools](https://www.voidtools.com/zh-cn/downloads/)
   - [Everything使用方法 (qq.com)](https://mp.weixin.qq.com/s/Jh5MI5sC1fi4MfOsGKuOzQ)
+  - [文件预览](https://mp.weixin.qq.com/s/g8wmD-seqK3Xnb0lhFarmg)
 
 - 问卷设计与简历
 
@@ -144,7 +147,16 @@
   - [百度统计——一站式智能数据分析与应用平台 (baidu.com)](https://tongji.baidu.com/web/welcome/login?castk=8aa3evy7528d8d4d2d675)
   - [51LA - 领先的数据统计服务商](https://www.51.la/)
 
-  
+- 插件与代码工具
+  - [谷歌插件](https://mp.weixin.qq.com/s/deLvEVxlDTYoFKdAdwc2oQ)
+  - [github插件](https://mp.weixin.qq.com/s/OWkpRdVt_zm-1rv4eq1FUA)
+  - [jupyter插件](https://mp.weixin.qq.com/s/A-TWQzvyacC0Zuxej4lRlA)
+  - [油猴](https://mp.weixin.qq.com/s/W1ACpmGPXG3pQ2HYgtdKgg)
+  - [Docker](https://mp.weixin.qq.com/s/GGuIvw0WUZUL2CKAOZ96HA)
+  - [命令行修饰工具](https://mp.weixin.qq.com/s/0qcC-xnF5863VaWCGuBNhg)
+  - [python打包脚本](https://mp.weixin.qq.com/s/ixqxvlTVYINk9bjoDDzqUw)
+  - [前端开发工具](https://mp.weixin.qq.com/s/CrNU0wLT3EXO70WT6uon0g)
+  - [python+Excel](https://mp.weixin.qq.com/s/w3V08NzhIWNPygJ6bhsMcw)
 
   
 
