@@ -33,6 +33,7 @@
   - [在 Windows 上拥有舒适的码字体验，12 款 Markdown 写作工具推荐 - 少数派 (sspai.com)](https://sspai.com/post/42126)
   - [Boost Note | Chronicle your Stories](https://boostnote.io/)
   - [升级日志 | 小书匠 (xiaoshujiang.com)](http://soft.xiaoshujiang.com/logs/version/v_8_5_12_video_demo/)
+  - [Rebuttal](https://mp.weixin.qq.com/s/r41VSdZowIvVLRiCY3kD6A)
 
 - 有趣AI
 
