@@ -162,9 +162,10 @@
   - [Python远程控制服务器](https://mp.weixin.qq.com/s/VsV2mrixY8cykfboWKG45A)
   - [移动端AI工具](https://mp.weixin.qq.com/s/3tFycUWSsGcsR2n4Wu470w)
   - [密码恢复工具](https://mp.weixin.qq.com/s/fNqsuRTVW4DfyRg5y4uc9Q)
-
+  - [Python开发桌面应用](https://mp.weixin.qq.com/s/OPWJIwGZstHBUGo_AKKGzQ)
+  - [Python爬取视频](https://mp.weixin.qq.com/s/9ikZnvYpRY0b5v-mj82jBg)
+  - [App自动接受新闻](https://mp.weixin.qq.com/s/WvLoW9Tq5ga36LO3wtj4JA)
   
-
 ​	
 
 
