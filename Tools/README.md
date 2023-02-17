@@ -36,6 +36,7 @@
   - [Rebuttal](https://mp.weixin.qq.com/s/r41VSdZowIvVLRiCY3kD6A)
   - [arxiv论文爬取](https://mp.weixin.qq.com/s/5xeP0rkOq8RLXTgbIXkAQQ)
   - [流程图绘制](https://mp.weixin.qq.com/s/tRrcoz0vidkhc8PXD2okVg)
+  - [endnote使用](https://mp.weixin.qq.com/s/_YdGQdxXYCGX64kQAG5xFQ)
   
 - 有趣AI
 
@@ -149,6 +150,7 @@
 
 - 插件与代码工具
   - [谷歌插件](https://mp.weixin.qq.com/s/deLvEVxlDTYoFKdAdwc2oQ)
+  - [Git](https://mp.weixin.qq.com/s/9x_tstKespVNJIH3hISw5Q), [Git](https://mp.weixin.qq.com/s/0Y9oB_RtRoynMTePV3YEbw)
   - [github插件](https://mp.weixin.qq.com/s/OWkpRdVt_zm-1rv4eq1FUA)
   - [jupyter插件](https://mp.weixin.qq.com/s/A-TWQzvyacC0Zuxej4lRlA)
   - [油猴](https://mp.weixin.qq.com/s/W1ACpmGPXG3pQ2HYgtdKgg)
@@ -157,6 +159,9 @@
   - [python打包脚本](https://mp.weixin.qq.com/s/ixqxvlTVYINk9bjoDDzqUw)
   - [前端开发工具](https://mp.weixin.qq.com/s/CrNU0wLT3EXO70WT6uon0g)
   - [python+Excel](https://mp.weixin.qq.com/s/w3V08NzhIWNPygJ6bhsMcw)
+  - [Python远程控制服务器](https://mp.weixin.qq.com/s/VsV2mrixY8cykfboWKG45A)
+  - [移动端AI工具](https://mp.weixin.qq.com/s/3tFycUWSsGcsR2n4Wu470w)
+  - [密码恢复工具](https://mp.weixin.qq.com/s/fNqsuRTVW4DfyRg5y4uc9Q)
 
   
 
