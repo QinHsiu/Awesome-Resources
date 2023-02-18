@@ -73,6 +73,7 @@
   - [优质免费icon下载网址私藏！ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/60398824)
   - [iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/collections/index?spm=a313x.7781069.1998910419.4&page=2)
   - [Image Extractor](https://extract.pics/)
+  - [免费商用素材](https://www.mfsc123.com/)
 
 - 数据在线可视化分析
 
