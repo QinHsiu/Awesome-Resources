@@ -20,3 +20,4 @@
 - [Coursade - Discover online learning](https://coursade.com/)
 - [1纳米学习网站导航 (1nami.com)](http://1nami.com/)
 - [DataScience Basic](https://github.com/QinHsiu/DataScience_Basic)
+- [计算机学习视频](https://mp.weixin.qq.com/s/KfRfKRmtUfphsYElre12gA)
