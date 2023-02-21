@@ -166,6 +166,7 @@
   - [Python开发桌面应用](https://mp.weixin.qq.com/s/OPWJIwGZstHBUGo_AKKGzQ)
   - [Python爬取视频](https://mp.weixin.qq.com/s/9ikZnvYpRY0b5v-mj82jBg)
   - [App自动接受新闻](https://mp.weixin.qq.com/s/WvLoW9Tq5ga36LO3wtj4JA)
+  - [Windows清理内存](https://mp.weixin.qq.com/s/b3bXzADT0I7jW_p9Epxddg)
   
 ​	
 
