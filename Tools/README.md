@@ -156,7 +156,9 @@
   - [jupyter插件](https://mp.weixin.qq.com/s/A-TWQzvyacC0Zuxej4lRlA)
   - [油猴](https://mp.weixin.qq.com/s/W1ACpmGPXG3pQ2HYgtdKgg)
   - [Docker](https://mp.weixin.qq.com/s/GGuIvw0WUZUL2CKAOZ96HA) [Docker常用命令](https://mp.weixin.qq.com/s/1XItHV-p8BEn5yaLjQGUwA) [Docker常用命令](https://mp.weixin.qq.com/s/WyumHdAb59s6mQNO8MFy0g)
+  - [HiveSQL常用命令](https://mp.weixin.qq.com/s/V4clJthBuF8Wa-x9T-8O6Q)
   - [命令行修饰工具](https://mp.weixin.qq.com/s/0qcC-xnF5863VaWCGuBNhg)
+  - [Linux常用命令](https://mp.weixin.qq.com/s/-_eVDqWjusivIgel1bADkg)
   - [python打包脚本](https://mp.weixin.qq.com/s/ixqxvlTVYINk9bjoDDzqUw)
   - [前端开发工具](https://mp.weixin.qq.com/s/CrNU0wLT3EXO70WT6uon0g)
   - [python+Excel](https://mp.weixin.qq.com/s/w3V08NzhIWNPygJ6bhsMcw)
@@ -167,6 +169,7 @@
   - [Python爬取视频](https://mp.weixin.qq.com/s/9ikZnvYpRY0b5v-mj82jBg)
   - [App自动接受新闻](https://mp.weixin.qq.com/s/WvLoW9Tq5ga36LO3wtj4JA)
   - [Windows清理内存](https://mp.weixin.qq.com/s/b3bXzADT0I7jW_p9Epxddg)
+  - [torch.fx量化工具](https://mp.weixin.qq.com/s/LAtkGkWKuuoloDDDAKD9sg)
   
 ​	
 
