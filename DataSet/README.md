@@ -75,6 +75,7 @@
   - [UCI Machine Learning Repository: Spambase Data Set](https://archive.ics.uci.edu/ml/datasets/Spambase)
   - [假新闻预测](https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view) [开源代码](https://data-flair.training/blogs/advanced-python-project-detecting-fake-news)
   - [安然调查数据集](https://www.cs.cmu.edu/~enron/)
+  - [NLP数据集](https://index.quantumstat.com/)
 - 情感分析领域数据集
   - [Multi-Domain Sentiment Dataset (jhu.edu)](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/)
   - [Sentiment Analysis (stanford.edu)](http://ai.stanford.edu/~amaas/data/sentiment/) [开源项目](https://data-flair.training/blogs/data-science-r-sentiment-analysis-project/)
