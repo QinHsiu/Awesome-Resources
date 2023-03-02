@@ -30,6 +30,7 @@
   - [Grammarly](https://app.grammarly.com/)
   - [Typora数学公式汇总（Markdown） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/261750408?utm_source=wechat_session)
   - [如何将excel表格导入latex中 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/148876880)
+  - [happy lab](https://github.com/QinHsiu/happy-lab)
 - 阅读笔记
   - [思源笔记 - 本地优先的个人知识管理系统，支持 Markdown 排版、块级引用和双向链接 (b3log.org)](https://b3log.org/siyuan/)
   - [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so/64731953e4474fbeabfce5b2312f043b?v=194fe3280e4b4071b8bdcdedca9c9b91)
