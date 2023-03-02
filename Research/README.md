@@ -59,6 +59,8 @@
   - [ccf-deadlines (ccfddl.github.io)](https://ccfddl.github.io/)
   - [AI Conference Deadlines (aideadlin.es)](https://aideadlin.es/?sub=ML,CV,NLP)
   - [LetPub编辑-SCI论文润色、修改、翻译服务公司-英文论文修改公司](http://www.letpub.com.cn/)
+- 绘制实验图
+  - [常用图表绘制](https://github.com/QinHsiu/plot_demo)
 - 数据发布网址
   - [国家统计局 (stats.gov.cn)](http://www.stats.gov.cn/)
   - [媒体矩阵势力榜 (weibo.com)](https://v6.bang.weibo.com/xmt)
