@@ -1,3 +1,5 @@
+# 在线学习网址
+
 - [哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/)
 - [飞桨AI Studio - 人工智能学习实训社区 (baidu.com)](https://aistudio.baidu.com/aistudio/education/dashboard)
 - [ML 2021 Spring (ntu.edu.tw)](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)
@@ -21,3 +23,54 @@
 - [1纳米学习网站导航 (1nami.com)](http://1nami.com/)
 - [DataScience Basic](https://github.com/QinHsiu/DataScience_Basic)
 - [计算机学习视频](https://mp.weixin.qq.com/s/KfRfKRmtUfphsYElre12gA)
+
+# 一些课程或者教程
+
+- 李宏毅机器学习教程：[教程](https://aistudio.baidu.com/aistudio/education/group/info/1978)
+
+- 李宏毅机器学习进阶教程：[教程](https://aistudio.baidu.com/aistudio/education/group/info/1979)
+
+- 吴恩达机器学习教程：[双语教程](https://www.bilibili.com/video/BV164411S78V)
+
+- 吴恩达机器学习中文笔记：[笔记&代码](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
+
+- 吴恩达CS229：[课程](https://www.bilibili.com/video/BV1iK411W7p9?from=search&seid=14090128442942491780)
+
+- 吴恩达CS229中文笔记：[笔记](https://kivy-cn.github.io/Stanford-CS-229-CN/#/)
+
+- 吴恩达CS229作业代码：[代码](https://github.com/Sierkinhane/CS229-ML-Implements)
+
+- 吴恩达CS229资源速查表：[速查表](https://github.com/QinHsiu/stanford-cs-229-machine-learning)
+
+- 林轩田机器学习基石：[课程](https://www.bilibili.com/video/BV1Cx411i7op?from=search&seid=15572856180094825579)
+
+- 林轩田机器学习基石：[笔记](https://redstonewill.com/category/ai-notes/lin-ml-foundations/)
+
+- 《Learning From Data》在线书籍：[书籍](http://amlbook.com/)
+
+- 林轩田机器学习技法：[课程](https://www.bilibili.com/video/av36760800)
+
+- 林轩田机器学习技法笔记：[笔记](https://redstonewill.com/category/ai-notes/lin-ml-techniques/)
+
+- 周志华《西瓜书》读书笔记：[笔记](https://www.cnblogs.com/limitlessun/p/8505647.html#_label0)
+
+- 周志华《西瓜书》公式推导：[公式](https://datawhalechina.github.io/pumpkin-book/#/)
+
+- 周志华《西瓜书》课后习题：[习题](https://zhuanlan.zhihu.com/c_1013850291887845376)
+
+- 李航《统计学方法》：[读书笔记](https://www.cnblogs.com/limitlessun/p/8611103.html) [读书笔记](https://mp.weixin.qq.com/s/X64rEXYAPkLNABjyoGpqpw)
+
+- 李航《统计学方法》：[读书笔记](https://github.com/SmirkCao/Lihang)
+
+- 李航《统计学方法》：[参考笔记](https://zhuanlan.zhihu.com/p/36378498)
+
+- 《Scikit-Learn 与 TensorFlow 机器学习实用指南》：[代码](https://github.com/QinHsiu/handson-ml)
+
+- [O'Really书单](https://github.com/cosmicpython/book)
+
+- [黑魔法](https://github.com/iswbm/magic-python)
+
+- [机器学习](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
+
+  
+
