@@ -1,0 +1,14 @@
+- 常规计算机竞赛
+  - [The ICPC International Collegiate Programming Contest](https://icpc.global/)
+- 常规AI竞赛网站
+  - [Kaggle Competitions](https://www.kaggle.com/competitions)
+  - [第三届中国AI+创新创业大赛：半监督学习目标定位竞赛 - 飞桨AI Studio (baidu.com)](https://aistudio.baidu.com/aistudio/competition/detail/78/0/introduction)
+  - [数据科学竞赛/大数据 竞赛 - DataFountain](https://www.datafountain.cn/competitions)
+  - [中国研究生创新实践系列大赛管理平台 (acge.org.cn)](https://cpipc.acge.org.cn/)
+  - [2022 iFLYTEK A.I.开发者大赛-讯飞开放平台 (xfyun.cn)](https://challenge.xfyun.cn/)
+  - [竞赛日历 - Coggle数据科学](https://coggle.club/)
+  - [图片颜值打分趣味赛 - FlyAI](https://www.flyai.com/d/321)
+  - [www.netflixprize.com](https://www.netflixprize.com/leaderboard.html)
+  - [2021 DIGIX全球校园AI算法精英大赛 | 华为开发者联盟 (huawei.com)](https://developer.huawei.com/consumer/cn/activity/digixActivity/digixdetail/201621215957378831?ha_source=gb_sf&ha_sourceId=89000073】)
+  - [天池大数据竞赛_天池大赛-阿里云天池 (aliyun.com)](https://tianchi.aliyun.com/competition/activeList)
+  - [2023 全球人工智能开发者先锋大会—AI 人才学习赛 - 2023 全球人工智能开发者先锋大会——AI人才学习赛 (heywhale.com)](https://www.heywhale.com/org/tbudf/competition/area/63be011bde6c0e9cdb12b965/submit)
