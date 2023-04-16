@@ -28,3 +28,5 @@
   - [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)
   - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)
   
+- 其他
+  - [Awesome-Anything](https://github.com/VainF/Awesome-Anything)
