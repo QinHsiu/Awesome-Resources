@@ -11,7 +11,7 @@
   - [chatPaper](https://github.com/kaixindelele/ChatPaper)
   
 - 语音
-  
+  - [bark](https://github.com/suno-ai/bark)
   
 - 视频
   - [Tune-A-Video](https://github.com/showlab/Tune-A-Video)
