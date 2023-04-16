@@ -9,6 +9,7 @@
   - [gpt4all](https://github.com/nomic-ai/gpt4all)
   - [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
   - [chatPaper](https://github.com/kaixindelele/ChatPaper)
+  - [LLMZoo](https://github.com/FreedomIntelligence/LLMZoo)
   
 - 语音
   - [bark](https://github.com/suno-ai/bark)
