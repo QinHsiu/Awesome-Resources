@@ -13,6 +13,7 @@
   
 - 语音
   - [bark](https://github.com/suno-ai/bark)
+  - [LM-Audio](https://github.com/liusongxiang/Large-Audio-Models)
   
 - 视频
   - [Tune-A-Video](https://github.com/showlab/Tune-A-Video)
