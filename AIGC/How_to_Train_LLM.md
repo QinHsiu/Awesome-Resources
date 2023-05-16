@@ -1,0 +1,21 @@
+- [ChatGLM](https://github.com/THUDM/ChatGLM-6B)
+  - [ChatGLM-6B](https://mp.weixin.qq.com/s/4QNgF6nAUo8imSaIB_OWmg)
+  - [GLM-6B](https://mp.weixin.qq.com/s/WX1EoR23Py_qcVE9g5sXTQ)
+  - [Quick-Start-ChatGLM6B](https://mp.weixin.qq.com/s/kNXAuCiX4I7Tj4iwZSTP2Q)
+  - [Blog](https://chatglm.cn/blog)
+- Alpaca
+  - [alpaca](https://mp.weixin.qq.com/s/se0oHEvx50An7ZJDsKE2GQ)
+  - [Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md)
+  - [科大讯飞&哈工大](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
+- [BELLE](https://github.com/LianjiaTech/BELLE)
+- [StackLLaMA](https://huggingface.co/spaces/trl-lib/stack-llama)
+  - [Blog](https://huggingface.co/blog/stackllama)
+- DataSet
+  - Alpaca-CoT
+  - [Alpaca_GPT4](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)
+  - [belle_data](https://github.com/LianjiaTech/BELLE/tree/main/data/10M)
+  - [COIG](https://huggingface.co/datasets/BAAI/COIG)
+- References
+  - [LLM](https://mp.weixin.qq.com/s/RD00Lv4HBUeEjbIc-FODbg)
+ 
+ 
