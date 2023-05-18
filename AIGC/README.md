@@ -41,3 +41,4 @@
   
 - 其他
   - [Awesome-Anything](https://github.com/VainF/Awesome-Anything)
+  - [llm dataset](https://mp.weixin.qq.com/s/VleZkQT6Vga7vqZP8pvgQQ)
