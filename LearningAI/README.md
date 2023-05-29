@@ -72,5 +72,15 @@
 
 - [机器学习](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
 
+- [Recsys]
+  - [RecSys Paper Presentation Videos (ACM RecSys)](https://www.youtube.com/channel/UC2nEn-yNA1BtdDNWziphPGA/featured)   
+  - [Building Recommender System with Machine Learning and AI (Youtube SEO)](https://www.youtube.com/playlist?list=PLk9tco_9NSqfkr2Z0VdntKqufR5uDOezz)
+  - [Machine Learning - FULL COURSE | Andrew Ng | Stanford University (Lecture 16.1 ~ Lecture 16.6)]( https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+  - [Mining Massive Datasets - FULL COURSE | Stanford University (Lecture 41 ~ Lecture 45)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
+  - [Text Retrieval and Search Engines - FULL COURSE | UIUC (Lecture 38 ~ Lecture 42)](https://www.youtube.com/playlist?list=PLLssT5z_DsK8Jk8mpFc_RPzn2obhotfDO)
+  - [Recommendation Systems - Learn Python for Data Science #3 (Siraj Raval)](https://www.youtube.com/watch?v=9gBC9R-msAk)
+  - [How does Netflix recommend movies? Matrix Factorization (Luis Serrano)](https://www.youtube.com/watch?v=ZspR5PZemcs)
+  - [Machine Learning for Recommender Systems (James Kirk Spotify)](https://www.youtube.com/watch?v=xBMGr08fowA&t=3m58s)
+  - [工业界推荐系统介绍-Shusen Wang](https://space.bilibili.com/1369507485/channel/seriesdetail?sid=2249610)
   
 
