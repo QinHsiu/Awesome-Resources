@@ -72,7 +72,7 @@
 
 - [机器学习](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
 
-- [Recsys]
+- Recsys
   - [RecSys Paper Presentation Videos (ACM RecSys)](https://www.youtube.com/channel/UC2nEn-yNA1BtdDNWziphPGA/featured)   
   - [Building Recommender System with Machine Learning and AI (Youtube SEO)](https://www.youtube.com/playlist?list=PLk9tco_9NSqfkr2Z0VdntKqufR5uDOezz)
   - [Machine Learning - FULL COURSE | Andrew Ng | Stanford University (Lecture 16.1 ~ Lecture 16.6)]( https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
