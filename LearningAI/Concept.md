@@ -13,6 +13,7 @@
   - [Gumbel softmax](https://mp.weixin.qq.com/s/qJ23MIS5mPOZ7iyQYqLfHA)
   - [EM算法](https://mp.weixin.qq.com/s/YpLJf40aIXogqrHiweM7Ng)
   - [卷积操作](https://mp.weixin.qq.com/s/JtnlbDdjwF3rkvmDW3Ch5w)
+  - [Transformer](https://mp.weixin.qq.com/s/7MEyCLWST8N7Goojtvgr2g)
   - [扩散模型](https://mp.weixin.qq.com/s/a5scrkoHdSQM7zN5JcLI7A)
   - [自监督泛化理论](https://mp.weixin.qq.com/s/tRx_oDJhi3aOUWM5lqU4yw)
   - [对比学习](https://mp.weixin.qq.com/s/UDG5z4lcOiRquRN0H6ELCQ)
