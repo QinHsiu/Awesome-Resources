@@ -93,6 +93,8 @@
 - Python算法:[https://github.com/prakhar1989/Algorithms](https://github.com/prakhar1989/Algorithms)
 - Python实现算法：[https://github.com/TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 - 基于项目的学习:[https://github.com/tuvtran/project-based-learning#python](https://github.com/tuvtran/project-based-learning#python)
+- [Pytorch常用代码段](https://mp.weixin.qq.com/s/nFNcOd--pDpdIL2QmhV8Tw)
+- [Pytorch实战小技巧](https://mp.weixin.qq.com/s/G4IIU7K1zHcRx1eDznhjew)
 
 # Others
 
