@@ -71,6 +71,7 @@
 - [黑魔法](https://github.com/iswbm/magic-python)
 
 - [机器学习](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
+- [一些概念](https://github.com/QinHsiu/Awesome-Resources/edit/main/LearningAI/Concept.md)
 
 - Recsys
   - [RecSys Paper Presentation Videos (ACM RecSys)](https://www.youtube.com/channel/UC2nEn-yNA1BtdDNWziphPGA/featured)   
