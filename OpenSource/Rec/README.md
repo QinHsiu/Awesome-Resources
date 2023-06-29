@@ -1,3 +1,9 @@
+- 深度学习推荐系统相关资源
+  - [传统推荐算法](https://mp.weixin.qq.com/s/6wH3aC811A0V4qWoAYzoEQ)
+  - [双塔模型上](https://mp.weixin.qq.com/s/7vAZJGYYLJhOs4jW4-Zd_A)
+  - [双塔模型下](https://mp.weixin.qq.com/s/OWgM35HmS4JHOZ2g8LYK6Q)
+
+
 - 深度学习推荐系统相关论文以及视频资料
   - [对比学习用于推荐](https://github.com/QinHsiu/Awesome-Contrastive-Learning-and-Data-Augmentation-RS-Paper-Code)
   - [DeepRec 相关论文](https://github.com/QinHsiu/DeepRec)
