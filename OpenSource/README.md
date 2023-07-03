@@ -98,7 +98,8 @@
 
 # Others
 
--  [开源项目](https://mp.weixin.qq.com/s/6-TnCHUMEIFWQVl-pIWBOA)
+- [Linux基础知识](https://mp.weixin.qq.com/s/e_jqUxkBlohx3hkFS9x71A)
+- [开源项目](https://mp.weixin.qq.com/s/6-TnCHUMEIFWQVl-pIWBOA)
 - [微软十大github项目](https://mp.weixin.qq.com/s/0ok7UodFyLTE8Ha5R107iQ)
 - [cuda编程](https://mp.weixin.qq.com/s/0wFD5Q_U0TT32NIxy45y0g)
 - [IP代理池](https://github.com/jhao104/proxy_pool) [使用方法](https://mp.weixin.qq.com/s/H7EyAzlfIYP8vuFGrEqpDw)
