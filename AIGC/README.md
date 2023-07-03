@@ -4,6 +4,8 @@
   - [unidiffuser](https://github.com/thu-ml/unidiffuser)
   
 - NLP
+  - [大规模语言模型部署](https://mp.weixin.qq.com/s/e6ymQZs5MY1pdodC7eg8iQ)
+  - [指令微调](https://mp.weixin.qq.com/s/Pzd-1XyFSFG4xSsThCSBWQ)
   - [lora](https://github.com/tloen/alpaca-lora) [中文版-lora](https://github.com/QinHsiu/Chinese-alpaca-lora)
   - [gpt prompt案例](https://github.com/QinHsiu/awesome-chatgpt-prompts-zh)
   - [gpt4all](https://github.com/nomic-ai/gpt4all)
