@@ -9,3 +9,5 @@
 - Tools 收集一些常用的工具网址（文件管理、视频处理等）
 - OpenSource 收集一些比较有意思的开源项目（时序预测、推荐系统等）
 - AIGC 收集一些比较有意思的用于各个领域的生成式大模型的开源模型（NLP、CV、语音、推荐等）
+- Bugs
+  - [ModuleNotFoundError](https://mp.weixin.qq.com/s/CeuFNwxmzpDaWosxVAiOHQ)
