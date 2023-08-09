@@ -11,3 +11,4 @@
 - AIGC 收集一些比较有意思的用于各个领域的生成式大模型的开源模型（NLP、CV、语音、推荐等）
 - Bugs
   - [ModuleNotFoundError](https://mp.weixin.qq.com/s/CeuFNwxmzpDaWosxVAiOHQ)
+  - [MultiProcessing](https://mp.weixin.qq.com/s/jvjrZkSA8gQ4zgTv92ZXKA)
