@@ -21,6 +21,7 @@
 - [tsai](https://github.com/timeseriesAI/tsai)
 - [Flow Forecast](https://github.com/AIStream-Peelout/flow-forecast)
 - [AutoTS](https://github.com/winedarksea/AutoTS)
+- [时许预测](https://mp.weixin.qq.com/s/Ry3GKwasWwnrYumiSKKdyA)
 
 # Knowledge Graph
 
