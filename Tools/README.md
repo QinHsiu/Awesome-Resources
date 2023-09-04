@@ -166,6 +166,8 @@
   - [移动端AI工具](https://mp.weixin.qq.com/s/3tFycUWSsGcsR2n4Wu470w)
   - [密码恢复工具](https://mp.weixin.qq.com/s/fNqsuRTVW4DfyRg5y4uc9Q)
   - [Python开发桌面应用](https://mp.weixin.qq.com/s/OPWJIwGZstHBUGo_AKKGzQ)
+  - [python打包](https://mp.weixin.qq.com/s/6unl3Vlmxz9Y2zU4R9Bk7w)
+  - [python多线程与多进程](https://mp.weixin.qq.com/s/ekPSiwV9rWD-EoTYGAt3yQ)
   - [Python爬取视频](https://mp.weixin.qq.com/s/9ikZnvYpRY0b5v-mj82jBg)
   - [App自动接受新闻](https://mp.weixin.qq.com/s/WvLoW9Tq5ga36LO3wtj4JA)
   - [Windows清理内存](https://mp.weixin.qq.com/s/b3bXzADT0I7jW_p9Epxddg)
