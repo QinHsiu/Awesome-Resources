@@ -155,7 +155,7 @@
   - [github插件](https://mp.weixin.qq.com/s/OWkpRdVt_zm-1rv4eq1FUA)
   - [jupyter插件](https://mp.weixin.qq.com/s/A-TWQzvyacC0Zuxej4lRlA)
   - [油猴](https://mp.weixin.qq.com/s/W1ACpmGPXG3pQ2HYgtdKgg)
-  - [Docker](https://mp.weixin.qq.com/s/GGuIvw0WUZUL2CKAOZ96HA) [Docker常用命令](https://mp.weixin.qq.com/s/1XItHV-p8BEn5yaLjQGUwA) [Docker常用命令](https://mp.weixin.qq.com/s/WyumHdAb59s6mQNO8MFy0g) [Docker常用命令](https://mp.weixin.qq.com/s/29RhNVxGbkNw3J2mJ0drJw)
+  - [Docker](https://mp.weixin.qq.com/s/GGuIvw0WUZUL2CKAOZ96HA) [Docker常用命令](https://mp.weixin.qq.com/s/1XItHV-p8BEn5yaLjQGUwA) [Docker常用命令](https://mp.weixin.qq.com/s/WyumHdAb59s6mQNO8MFy0g) [Docker常用命令](https://mp.weixin.qq.com/s/29RhNVxGbkNw3J2mJ0drJw) [docker](https://mp.weixin.qq.com/s/PxvQibl3Vw-oHSQbgonxQw)
   - [HiveSQL常用命令](https://mp.weixin.qq.com/s/V4clJthBuF8Wa-x9T-8O6Q)
   - [命令行修饰工具](https://mp.weixin.qq.com/s/0qcC-xnF5863VaWCGuBNhg)
   - [Linux常用命令](https://mp.weixin.qq.com/s/-_eVDqWjusivIgel1bADkg)
