@@ -151,7 +151,7 @@
 
 - 插件与代码工具
   - [谷歌插件](https://mp.weixin.qq.com/s/deLvEVxlDTYoFKdAdwc2oQ)
-  - [Git](https://mp.weixin.qq.com/s/9x_tstKespVNJIH3hISw5Q), [Git](https://mp.weixin.qq.com/s/0Y9oB_RtRoynMTePV3YEbw)
+  - [Git](https://mp.weixin.qq.com/s/9x_tstKespVNJIH3hISw5Q), [Git](https://mp.weixin.qq.com/s/0Y9oB_RtRoynMTePV3YEbw), [git使用总结](https://mp.weixin.qq.com/s/cvrZ06df6s9JKDYQzOql0Q)
   - [github插件](https://mp.weixin.qq.com/s/OWkpRdVt_zm-1rv4eq1FUA)
   - [jupyter插件](https://mp.weixin.qq.com/s/A-TWQzvyacC0Zuxej4lRlA)
   - [油猴](https://mp.weixin.qq.com/s/W1ACpmGPXG3pQ2HYgtdKgg)
