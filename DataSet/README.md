@@ -17,6 +17,7 @@
   - [Jester Collaborative Filtering Dataset (berkeley.edu)](https://goldberg.berkeley.edu/jester-data/)
   - [RUCDM/KB4Rec: This is the data for KB4Rec (github.com)](https://github.com/RUCDM/KB4Rec#Datasets)
   - [Principal Component Analysis of Pokemon Data | Kaggle](https://www.kaggle.com/code/strakul5/principal-component-analysis-of-pokemon-data/data)
+  - [大规模视频推荐数据集](https://github.com/westlake-repl/MicroLens)
   - [电影推荐数据集](https://drive.google.com/file/d/1Dn1BZD3YxgBQJSIjbfNnmCFlDW2jdQGD/view) [开源项目](https://data-flair.training/blogs/data-science-r-movie-recommendation/)
 - 机器学习领域数据集
   - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
