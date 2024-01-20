@@ -173,6 +173,7 @@
   - [Windows清理内存](https://mp.weixin.qq.com/s/b3bXzADT0I7jW_p9Epxddg)
   - [torch.fx量化工具](https://mp.weixin.qq.com/s/LAtkGkWKuuoloDDDAKD9sg)
   - [一些chatgpt插件](https://github.com/Jeadie/awesome-chatgpt-plugins)
+  - [一分钟快速搭建个人网盘神器](https://mp.weixin.qq.com/s/AeOxgU2FVpj5j9AzG-kOFw)
   
 ​	
 
