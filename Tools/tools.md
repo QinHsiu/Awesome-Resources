@@ -79,6 +79,6 @@
 |README语法|README文件语法解读，即Github Flavored Markdown语法介绍|[[Code]](https://github.com/guodongxiaren/README)|
 |爬虫|持续维护的新浪微博采集工具🚀🚀🚀|[[Code]](https://github.com/nghuyong/WeiboSpider)|
 |微信聊天记录|提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告|[[Code]](https://github.com/LC044/WeChatMsg)|
-|课程|Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.|[[Code]]()https://github.com/mlabonne/llm-course|
+|课程|Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.|[[Code]](https://github.com/mlabonne/llm-course)|
 |地球可视化|a project to visualize global weather conditions|[[Code]](https://github.com/cambecc/earth)|
 |聊天应用|Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain|[[Code](https://github.com/chatchat-space/Langchain-Chatchat)|
